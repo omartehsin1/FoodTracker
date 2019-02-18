@@ -18,6 +18,7 @@
 		0772D2882219DE2C0010A5CB /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0772D2872219DE2C0010A5CB /* Meal.swift */; };
 		0772D28A2219E32C0010A5CB /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0772D2892219E32C0010A5CB /* MealTableViewCell.swift */; };
 		0772D28C2219E9C60010A5CB /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0772D28B2219E9C60010A5CB /* MealTableViewController.swift */; };
+		07EA9D0D221B355F00ED2A70 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07EA9D0C221B355F00ED2A70 /* SignUp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		0772D2872219DE2C0010A5CB /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		0772D2892219E32C0010A5CB /* MealTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
 		0772D28B2219E9C60010A5CB /* MealTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewController.swift; sourceTree = "<group>"; };
+		07EA9D0C221B355F00ED2A70 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 			children = (
 				0772D25E221741690010A5CB /* AppDelegate.swift */,
 				0772D260221741690010A5CB /* MealViewController.swift */,
+				07EA9D0C221B355F00ED2A70 /* SignUp.swift */,
 				0772D28322176B9E0010A5CB /* RatingControl.swift */,
 				0772D2872219DE2C0010A5CB /* Meal.swift */,
 				0772D262221741690010A5CB /* Main.storyboard */,
@@ -217,6 +220,7 @@
 				0772D28C2219E9C60010A5CB /* MealTableViewController.swift in Sources */,
 				0772D28A2219E32C0010A5CB /* MealTableViewCell.swift in Sources */,
 				0772D261221741690010A5CB /* MealViewController.swift in Sources */,
+				07EA9D0D221B355F00ED2A70 /* SignUp.swift in Sources */,
 				0772D25F221741690010A5CB /* AppDelegate.swift in Sources */,
 				0772D267221741690010A5CB /* FoodTracker.xcdatamodeld in Sources */,
 			);
